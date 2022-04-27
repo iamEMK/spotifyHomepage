@@ -35,7 +35,7 @@ const Main = styled.div`
 `;
 const Nav = styled.div`
 width:100%;
-height: 60px;
+height: 55px;
 padding:10px;
 display: flex;
 justify-content:space-between;
